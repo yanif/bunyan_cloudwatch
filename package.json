@@ -1,0 +1,16 @@
+{
+  "name": "bunyan_cloudwatch",
+  "version": "0.0.0",
+  "description": "bunyan_cloudwatch",
+  "main": "app.js",
+  "author": {
+    "name": "Felix",
+    "email": ""
+  },
+  "dependencies": {
+    "bunyan": "^1.3.6",
+    "event-stream": "^3.3.1",
+    "lawgs": "^1.0.2",
+    "memorystream": "^0.3.1"
+  }
+}
