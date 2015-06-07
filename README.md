@@ -1,6 +1,6 @@
 ﻿# bunyan_cloudwatch
 
-var log = require('../index');
+var log = require('bunyan_cloudwatch');
 
 log.settings({
     accessKeyId: '',
