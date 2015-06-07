@@ -1,6 +1,6 @@
 {
   "name": "bunyan_cloudwatch",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "bunyan_cloudwatch",
   "main": "app.js",
   "author": "Felix",
