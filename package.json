@@ -22,10 +22,12 @@
     "url": "git+https://github.com/felixW/bunyan_cloudwatch.git"
   },
   "keywords": [
-    "bunyan",
-    "cloudwatch"
+    "aws",
+    "cloudwatch",
+    "logs",
+    "bunyan"
   ],
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/felixW/bunyan_cloudwatch/issues"
   },
