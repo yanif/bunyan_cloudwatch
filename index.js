@@ -42,9 +42,9 @@ module.exports.create = function (loggerName) {
         // Shows the debugging messages
         showDebugLogs: true, /* Default to false */
         // Change the frequency of log upload, regardless of the batch size
-        uploadMaxTimer: 1000, /* Defaults to 5000ms */
+        uploadMaxTimer: 10000, /* Defaults to 5000ms */
         // Max batch size. An upload will be triggered if this limit is reached within the max upload time
-        uploadBatchSize: 500 /* Defaults to 500 */
+        uploadBatchSize: 1000 /* Defaults to 500 */
     });
     
     var memStream = new MemoryStream();
